@@ -1,2 +1,8 @@
 _site/
 
+.jekyll-cache/
+Gemfile.lock
+
+# Local source material, not part of the published site
+Latest_CV.txt
+B.R. Lai.png
